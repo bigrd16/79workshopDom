@@ -1,0 +1,22 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navbar .logo img{
+    width: 15rem;
+    height: 15rem;
+}
+
+
+ul{
+    display: flex;
+    gap: 2rem;
+}
+
+ul li{
+    list-style: none;
+    color: green;
+    font-size: 1.4rem;
+}
